@@ -1,4 +1,4 @@
-
+[
   {
     "id": 1,
     "course_name": "Eazzy",
@@ -119,4 +119,4 @@
     "about_course": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
     "course_price": "$1082.46"
   }
-
+]
