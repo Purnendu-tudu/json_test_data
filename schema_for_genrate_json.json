@@ -1,0 +1,57 @@
+{
+    "store_id" : "1",
+    "store_type": "book",
+    "store_book_data" :{
+        "purchase_book_data":[
+            {
+                "book_id": "1",
+                "ordered_id" :"5",
+                "book_title" : "Abc",
+                "book_isbn_number" : "123456",
+                "book_seller_id" : "10",
+                "date_of_purchase" :"2023-31-10"
+            },
+            {
+                "book_id": "1",
+                "ordered_id" :"6",
+                "book_title" : "Abc",
+                "book_isbn_number" : "123456",
+                "book_seller_id" : "10",
+                "date_of_purchase" :"2023-31-10"
+            }
+        ],
+        "canceled_book_data":[
+            {
+                "book_id": "2",
+                "ordered_id" : "3",
+                "book_title" : "Abc",
+                "book_isbn_number" : "123456",
+                "book_seller_id" : "10",
+                "date_of_canceled" :"2023-31-10"
+            }
+        ],
+        "ordered_book_data" :[
+            {
+                "book_id": "3",
+                "ordered_id" : "4",
+                "book_title" : "Abc",
+                "book_isbn_number" : "123456",
+                "book_seller_id" : "10",
+                "date_of_order" :"2023-31-10"
+            }
+        ]
+    },
+    "store_customer_data" : [
+        {
+            "customer_id" : "1",
+            "customer_name" :"Ramu",
+            "purchase_data" :{
+                "purchased_id" : "1",
+                "purchased_book_id" : "2",
+                "purchased_booked_price" : "500",
+                "purchased_by" : "Cash",
+                "purchased_date" :"2023-10-09"
+            }
+        }
+    ]
+}
