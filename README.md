@@ -11,6 +11,10 @@
 
 **[🟢] Make {GET} request any one of the above url** 
 
+- Example : Making request using postman client
+
+<img src="https://github.com/Purnendu-tudu/json_test_data/assets/75769105/3f755818-299d-48dd-b69f-6ce611cc411f" width="700" />
+
 
 
 
